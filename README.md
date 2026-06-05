@@ -12,7 +12,6 @@ I transform raw data into actionable business insights through analytics, visual
 
 </div>
 
----
 <div align="center">
   
 ## 🌐 Connect With Me
@@ -24,7 +23,6 @@ I transform raw data into actionable business insights through analytics, visual
 🐙 GitHub: https://github.com/angel4sara
 
 </div>
----
 
 <div align="center">
 
