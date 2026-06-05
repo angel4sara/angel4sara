@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Angel Abraham
+# Hi , I'm Angel Abraham
 
-### Data Analyst | MSc Data Science
+### Data Analyst | Business Intelligence Developer | MSc Data Science
 
 ### Power BI • SQL • Python • Alteryx • Azure
 
@@ -13,7 +13,8 @@ I transform raw data into actionable business insights through analytics, visual
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🌐 Connect With Me
 
 📧 Email: [angel4abraham@gmail.com](mailto:angel4abraham@gmail.com)
@@ -22,15 +23,16 @@ I transform raw data into actionable business insights through analytics, visual
 
 🐙 GitHub: https://github.com/angel4sara
 
+</div>
 ---
 
-## 🚀 About Me
+<div align="center">
 
-* MSc Data Science
-* Experienced in Data Analytics, Data Quality, Data Migration, and Business Intelligence
-* Skilled in SQL, Python, Power BI, Tableau, Alteryx, Azure, and Excel
-* Experience in Healthcare Analytics and Higher Education Analytics
-* Continuously learning Azure Data Engineering and Advanced SQL
+##  About Me
+
+I am a Data Analyst with an MSc in Data Science and experience delivering data-driven solutions across higher education, healthcare, and business domains. My expertise includes SQL, Python, Power BI, Tableau, Alteryx, Azure, and Excel, with a strong focus on data cleaning, transformation, visualisation, and predictive analytics. I have developed interactive dashboards, ETL pipelines, machine learning models, and reporting solutions that support strategic decision-making. My recent work includes building a university-wide EDI analytics platform at UCL, developing healthcare and workforce analytics dashboards, and delivering data quality and migration projects within academic institutions. I am passionate about turning complex datasets into actionable insights and continuously expanding my knowledge in Azure Data Engineering, Advanced SQL, Data Governance, and Machine Learning.
+
+</div>
 
 ---
 
