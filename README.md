@@ -244,13 +244,21 @@ University of Greenwich
 
 ---
 
+<div align="center">
+
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angel4sara\&show_icons=true\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=angel4sara&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angel4sara\&layout=compact\&theme=tokyonight)
+<br><br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angel4sara\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel4sara&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=angel4sara&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
 
 ---
 
