@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Angel Abraham
+# Hi, I'm Angel Sara Abraham
 
 ### Data Analyst | Business Intelligence Developer | MSc Data Science
 
