@@ -309,9 +309,9 @@ https://github.com/angel4sara/-Utilising-Multi-view-Data-for-Identification-of-A
 
 <div align="center">
 
-## 📊 Contribution Graph
+## 📊 GitHub Activity Overview
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=angel4sara&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=angel4sara&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 
 </div>
 
