@@ -1,10 +1,16 @@
+<div align="center">
+
 # Hi 👋, I'm Angel Abraham
 
-### Data Analyst | MSc Data Science | Power BI • SQL • Python • Alteryx • Azure
+### Data Analyst | MSc Data Science (Distinction)
+
+### Power BI • SQL • Python • Alteryx • Azure
 
 📍 Kerala, India | Open to Relocation
 
-I am a Data Analyst passionate about transforming raw data into meaningful insights through analytics, visualisation, machine learning, and business intelligence solutions. I enjoy building dashboards, data pipelines, predictive models, and interactive applications that help organisations make data-driven decisions.
+I transform raw data into actionable business insights through analytics, visualisation, machine learning, and business intelligence.
+
+</div>
 
 ---
 
