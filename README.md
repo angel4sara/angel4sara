@@ -261,11 +261,12 @@ https://github.com/angel4sara/-Utilising-Multi-view-Data-for-Identification-of-A
 
 ### MSc Data Science
 
-University of Greenwich
+### <img src="images/logos/greenwich.png" height="30"/> University of Greenwich
 
 **Dissertation:** Utilising Multi-view Data for Identification of Alzheimer's Diseases
 
 ### B.Tech Electronics & Communication Engineering
+### <img src="images/logos/ktu.png" height="30"/> A. P. J. Abdul Kalam Technological University
 
 ---
 
