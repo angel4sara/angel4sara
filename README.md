@@ -1,113 +1,293 @@
-# Hi, I'm Angel Abraham 👋
+# Hi 👋, I'm Angel Abraham
 
-## 📊 Data Analyst | Business Intelligence Developer | Data Scientist
+### Data Analyst | MSc Data Science | Power BI • SQL • Python • Alteryx • Azure
 
-📍 Kerala, India
+📍 Kerala, India | Open to Relocation
 
-🎓 MSc Data Science 
-
-I specialise in:
-
-- SQL
-- Python
-- Power BI
-- Tableau
-- Alteryx
-- Azure
-- Machine Learning
-- Data Visualisation
+I am a Data Analyst passionate about transforming raw data into meaningful insights through analytics, visualisation, machine learning, and business intelligence solutions. I enjoy building dashboards, data pipelines, predictive models, and interactive applications that help organisations make data-driven decisions.
 
 ---
 
-## 🛠 Technical Skills
+## 🌐 Connect With Me
+
+📧 Email: [angel4abraham@gmail.com](mailto:angel4abraham@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/angel-sara-abraham/
+
+🐙 GitHub: https://github.com/angel4sara
+
+---
+
+## 🚀 About Me
+
+* 🎓 MSc Data Science
+* 📊 Experienced in Data Analytics, Data Quality, Data Migration, and Business Intelligence
+* 📈 Skilled in SQL, Python, Power BI, Tableau, Alteryx, Azure, and Excel
+* ☁️ Interested in Data Engineering and Cloud Analytics
+* 🏥 Experience in Healthcare Analytics and Higher Education Analytics
+* 🤖 Passionate about Machine Learning and Predictive Analytics
+* 📚 Continuously learning Azure Data Engineering and Advanced SQL
+
+---
+
+## 🛠️ Technical Skills
+
+### Analytics & BI
+
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel)
 
 ### Programming
 
-- Python
-- SQL
-
-### Analytics
-
-- Power BI
-- Tableau
-- Excel
-- Alteryx
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### Machine Learning
 
-- Scikit-Learn
-- TensorFlow
-- Pandas
-- NumPy
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
 
-### Cloud
+### Cloud & Data Engineering
 
-- Azure
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure)
+
+### Visualisation
+
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
+![Altair](https://img.shields.io/badge/Altair-FF4B4B?style=for-the-badge)
+![Bokeh](https://img.shields.io/badge/Bokeh-E84D60?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-### University College London
+### University College London (UCL)
 
-EDI Data Tool Developer
+**EDI Data Tool Developer**
 
-### City St George's University
+* Developed a bespoke EDI analytics and visualisation platform
+* Built dashboards using Python, Altair, Plotly, Bokeh and Power BI
+* Collaborated with senior leadership to support data-driven decision making
 
-Data Quality Support Administrator
+### City St George's, University of London
+
+**Data Quality Support Administrator**
+
+* Performed large-scale data validation and audit checks
+* Developed reporting pipelines and dashboards
+* Worked with Azure-based solutions and GDPR-compliant processes
 
 ### University of Surrey
 
-Data Insights Coordinator
+**Data Insights Coordinator**
+
+* Delivered forecasting models and KPI dashboards
+* Led data cleaning, transformation and reporting activities
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### EDI Insight Dashboard
+## 🏥 Patient Wait List Dashboard
 
-Python + Power BI + Altair + Panel
+**Power BI | Healthcare Analytics**
 
-### Income Estimator 
+Interactive dashboard analysing patient waiting lists across specialties, age groups and waiting time bands.
 
-Python + SQL + Power BI
+**Key Features**
 
-### Alzheimer's Disease Prediction
-
-Machine Learning
-
-### Healthcare Analytics Dashboard
-
-Power BI + SQL
-
-### HR Analytics
-
-Python + SQL + Power BI
-
-### Retirement & Financial Wellbeing Analytics
-
-Python + SQL + Power BI
+* Wait list KPI tracking
+* Specialty analysis
+* Demographic insights
+* Time-band reporting
+* Interactive filtering
 
 ---
 
-## 📫 Contact
+## 💰 Retirement & Financial Wellbeing Analytics
 
-Email: angel4abraham@gmail.com
+**SQL | Python | Power BI**
 
-LinkedIn:
-https://www.linkedin.com/in/angel-sara-abraham/
+End-to-end analytics project focused on retirement readiness and financial wellbeing.
 
-<!--
-**angel4sara/angel4sara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Highlights**
 
-Here are some ideas to get you started:
+* Data warehouse modelling
+* Fact and dimension tables
+* Forecasting
+* Scenario analysis
+* Business insights dashboard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎮 Global Gaming Sales Dashboard
+
+**Tableau**
+
+Interactive Tableau dashboard analysing global video game sales.
+
+**Highlights**
+
+* Top games analysis
+* Regional trends
+* Genre performance
+* Publisher rankings
+* Platform sales comparison
+
+---
+
+## 🛒 Lidl Store Sales Performance Analysis
+
+**Power BI | DAX**
+
+Retail analytics dashboard providing insights into sales, profitability and customer behaviour.
+
+**Highlights**
+
+* Sales performance tracking
+* Profit analysis
+* Customer segmentation
+* Historical trend analysis
+
+---
+
+## 🧠 Mental Health and Productivity Dashboard
+
+**Power BI**
+
+Dashboard analysing relationships between employee wellbeing and productivity.
+
+**Highlights**
+
+* Productivity tracking
+* Mental health metrics
+* Absenteeism analysis
+* Employee retention insights
+
+---
+
+## 🏥 Interactive Healthcare Patient Insights Dashboard
+
+**Power BI**
+
+Healthcare analytics dashboard analysing:
+
+* Patient satisfaction
+* Wait times
+* Admissions
+* Referral patterns
+* Demographic trends
+
+---
+
+## 👥 HR Analytics Dashboard
+
+**Power BI | SQL | Python**
+
+Workforce analytics solution focusing on:
+
+* Employee attrition
+* Job satisfaction
+* Workforce demographics
+* Performance metrics
+
+---
+
+## 📊 PwC HR Analytics Dashboard
+
+**Power BI**
+
+Analysed workforce and diversity KPIs with a focus on executive gender balance and workforce insights.
+
+---
+
+## ✈️ British Airways Customer Behaviour Analytics
+
+**Machine Learning | Python**
+
+Developed predictive models to identify factors influencing customer purchasing behaviour.
+
+---
+
+## 🧠 Alzheimer's Disease Detection Using Multi-View Data
+
+**Python | Machine Learning | Flask**
+
+Associated with University of Greenwich.
+
+Developed machine learning models to detect Alzheimer's Disease severity from MRI scans.
+
+**Highlights**
+
+* ROI and HOG feature extraction
+* SVM and Decision Tree models
+* Multiple Kernel Learning
+* Flask deployment
+* 89% prediction accuracy
+
+Repository:
+https://github.com/angel4sara/-Utilising-Multi-view-Data-for-Identification-of-Alzheimer-s-Diseases
+
+---
+
+## 🎓 Education
+
+### MSc Data Science (Distinction)
+
+University of Greenwich
+
+**Dissertation:** Utilising Multi-view Data for Identification of Alzheimer's Diseases
+
+### B.Tech Electronics & Communication Engineering
+
+---
+
+## 📜 Certifications
+
+* Alteryx Designer Core Certified
+* Power BI Data Analytics
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angel4sara\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angel4sara\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angel4sara\&theme=tokyonight)
+
+---
+
+## 🎯 Currently Working On
+
+* Advanced SQL
+* Azure Data Engineering
+* Power BI Advanced DAX
+* Data Governance
+* Data Quality Frameworks
+* Machine Learning Applications
+
+---
+
+## 💡 Areas of Interest
+
+* Data Analytics
+* Business Intelligence
+* Data Science
+* Machine Learning
+* Data Engineering
+* Healthcare Analytics
+* Higher Education Analytics
+* Cloud Analytics
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaboration, analytics projects, and data-driven innovation.
