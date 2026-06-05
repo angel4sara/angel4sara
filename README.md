@@ -20,13 +20,11 @@ I am a Data Analyst passionate about transforming raw data into meaningful insig
 
 ## 🚀 About Me
 
-* 🎓 MSc Data Science
-* 📊 Experienced in Data Analytics, Data Quality, Data Migration, and Business Intelligence
-* 📈 Skilled in SQL, Python, Power BI, Tableau, Alteryx, Azure, and Excel
-* ☁️ Interested in Data Engineering and Cloud Analytics
-* 🏥 Experience in Healthcare Analytics and Higher Education Analytics
-* 🤖 Passionate about Machine Learning and Predictive Analytics
-* 📚 Continuously learning Azure Data Engineering and Advanced SQL
+* MSc Data Science
+* Experienced in Data Analytics, Data Quality, Data Migration, and Business Intelligence
+* Skilled in SQL, Python, Power BI, Tableau, Alteryx, Azure, and Excel
+* Experience in Healthcare Analytics and Higher Education Analytics
+* Continuously learning Azure Data Engineering and Advanced SQL
 
 ---
 
@@ -93,7 +91,7 @@ I am a Data Analyst passionate about transforming raw data into meaningful insig
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## 🏥 Patient Wait List Dashboard
 
@@ -197,22 +195,6 @@ Workforce analytics solution focusing on:
 * Job satisfaction
 * Workforce demographics
 * Performance metrics
-
----
-
-## 📊 PwC HR Analytics Dashboard
-
-**Power BI**
-
-Analysed workforce and diversity KPIs with a focus on executive gender balance and workforce insights.
-
----
-
-## ✈️ British Airways Customer Behaviour Analytics
-
-**Machine Learning | Python**
-
-Developed predictive models to identify factors influencing customer purchasing behaviour.
 
 ---
 
