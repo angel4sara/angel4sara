@@ -282,9 +282,6 @@ https://github.com/angel4sara/-Utilising-Multi-view-Data-for-Identification-of-A
 
 * Advanced SQL
 * Azure Data Engineering
-* Power BI Advanced DAX
-* Data Governance
-* Data Quality Frameworks
 * Machine Learning Applications
 
 ---
@@ -310,6 +307,13 @@ https://github.com/angel4sara/-Utilising-Multi-view-Data-for-Identification-of-A
 
 </div>
 
+<div align="center">
+
+## 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=angel4sara&theme=tokyo-night" />
+
+</div>
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaboration, analytics projects, and data-driven innovation.
 
