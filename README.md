@@ -271,21 +271,19 @@ University of Greenwich
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaboration, analytics projects, and data-driven innovation.
 
 ---
-
 <div align="center">
 
 ## 📈 GitHub Statistics
 
-<img src="[https://github-readme-stats.vercel.app/api?username=angel4sara&show_icons=true&theme=tokyonight" alt="GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=angel4sara&show_icons=true&theme=tokyonight)" />
+<img src="https://github-readme-stats.vercel.app/api?username=angel4sara&show_icons=true&theme=github_dark" />
 
 <br><br>
 
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=angel4sara&layout=compact&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=angel4sara&layout=compact&theme=tokyonight)" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel4sara&layout=compact&theme=github_dark" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=angel4sara&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=angel4sara&theme=github-dark-blue" />
 
 </div>
-
 ---
