@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Angel Abraham
 
-### Data Analyst | MSc Data Science (Distinction)
+### Data Analyst | MSc Data Science
 
 ### Power BI • SQL • Python • Alteryx • Azure
 
