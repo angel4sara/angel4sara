@@ -34,16 +34,19 @@ I am a Data Analyst with an MSc in Data Science and experience delivering data-d
 </div>
 
 ---
+##  Featured Technologies
+
+SQL • Python • Power BI • Tableau • Alteryx • Azure • DAX • ETL • Machine Learning • Data Visualisation
 
 ## 🛠️ Technical Skills
 
 ### Analytics & BI
 
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 
 ### Programming
 
@@ -51,23 +54,24 @@ I am a Data Analyst with an MSc in Data Science and experience delivering data-d
 
 ### Machine Learning
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 
 ### Cloud & Data Engineering
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
 ### Visualisation
 
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
 ![Altair](https://img.shields.io/badge/Altair-FF4B4B?style=for-the-badge)
 ![Bokeh](https://img.shields.io/badge/Bokeh-E84D60?style=for-the-badge)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
 
 ---
 
