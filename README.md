@@ -244,24 +244,6 @@ University of Greenwich
 
 ---
 
-<div align="center">
-
-## 📈 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=angel4sara&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel4sara&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=angel4sara&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🎯 Currently Working On
 
 * Advanced SQL
@@ -287,3 +269,23 @@ University of Greenwich
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaboration, analytics projects, and data-driven innovation.
+
+---
+
+<div align="center">
+
+## 📈 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=angel4sara&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel4sara&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=angel4sara&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
+
+---
