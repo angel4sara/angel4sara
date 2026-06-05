@@ -43,33 +43,33 @@ SQL • Python • Power BI • Tableau • Alteryx • Azure • DAX • ETL �
 ### Analytics & BI
 
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau\&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel\&logoColor=white)
 
 ### Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python\&logoColor=white)
 
 ### Machine Learning
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow\&logoColor=white)
 
 ### Cloud & Data Engineering
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure\&logoColor=white)
 
 ### Visualisation
 
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly\&logoColor=white)
 ![Altair](https://img.shields.io/badge/Altair-FF4B4B?style=for-the-badge)
 ![Bokeh](https://img.shields.io/badge/Bokeh-E84D60?style=for-the-badge)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 
@@ -82,7 +82,7 @@ SQL • Python • Power BI • Tableau • Alteryx • Azure • DAX • ETL �
 **EDI Data Tool Developer**
 
 
- February 2025 – December 2025
+ 📅 February 2025 – December 2025
 
 * Designed and developed a bespoke Equality, Diversity & Inclusion (EDI) analytics platform for the Faculty of Engineering.
 * Built interactive dashboards and visualisations using Python, Altair, Plotly, Bokeh, and Power BI.
@@ -96,7 +96,7 @@ SQL • Python • Power BI • Tableau • Alteryx • Azure • DAX • ETL �
 
 **Data Quality Support Administrator**
 
-January 2026 – March 2026
+📅 January 2026 – March 2026
 
 * Processed and validated 5,000+ curriculum amendments within the Curriculum Management System (CMS).
 * Performed data quality audits, validation checks, and GDPR-compliant data governance activities.
@@ -106,7 +106,7 @@ January 2026 – March 2026
 
 **Data Migration Assistant**
 
-September 2025 – December 2025
+📅 September 2025 – December 2025
 
 * Entered, verified, and maintained 9,000+ programme, course, and module records.
 * Conducted audit checks to ensure consistency, accuracy, and compliance across datasets.
@@ -266,6 +266,7 @@ https://github.com/angel4sara/-Utilising-Multi-view-Data-for-Identification-of-A
 **Dissertation:** Utilising Multi-view Data for Identification of Alzheimer's Diseases
 
 ### B.Tech Electronics & Communication Engineering
+
 ### <img src="images/logos/ktu.png" height="30"/> A. P. J. Abdul Kalam Technological University
 
 ---
