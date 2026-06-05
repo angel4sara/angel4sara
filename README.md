@@ -24,10 +24,6 @@ Transforming data into actionable business insights through analytics, visualisa
     <img src="https://img.shields.io/badge/GitHub-angel4sara-black?style=for-the-badge&logo=github" />
 </a>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=angel4sara&theme=tokyonight" alt="GitHub Streak" />
-
 </div>
 
 
@@ -273,9 +269,6 @@ University of Greenwich
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaboration, analytics projects, and data-driven innovation.
-
----
 <div align="center">
 
 ## 📈 GitHub Statistics
@@ -283,4 +276,8 @@ University of Greenwich
 <img src="https://streak-stats.demolab.com?user=angel4sara&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaboration, analytics projects, and data-driven innovation.
+
 ---
