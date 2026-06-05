@@ -77,7 +77,8 @@ I am a Data Analyst with an MSc in Data Science and experience delivering data-d
 
 **EDI Data Tool Developer**
 
-📅 February 2025 – December 2025
+
+ February 2025 – December 2025
 
 * Designed and developed a bespoke Equality, Diversity & Inclusion (EDI) analytics platform for the Faculty of Engineering.
 * Built interactive dashboards and visualisations using Python, Altair, Plotly, Bokeh, and Power BI.
@@ -90,7 +91,8 @@ I am a Data Analyst with an MSc in Data Science and experience delivering data-d
 ### <img src="images/logos/city-st-georges.png" height="30"/> City St George's, University of London
 
 **Data Quality Support Administrator**
-📅 January 2026 – March 2026
+
+January 2026 – March 2026
 
 * Processed and validated 5,000+ curriculum amendments within the Curriculum Management System (CMS).
 * Performed data quality audits, validation checks, and GDPR-compliant data governance activities.
@@ -99,7 +101,8 @@ I am a Data Analyst with an MSc in Data Science and experience delivering data-d
 * Maintained documentation and supported continuous improvement of academic data processes.
 
 **Data Migration Assistant**
-📅 September 2025 – December 2025
+
+September 2025 – December 2025
 
 * Entered, verified, and maintained 9,000+ programme, course, and module records.
 * Conducted audit checks to ensure consistency, accuracy, and compliance across datasets.
@@ -111,7 +114,8 @@ I am a Data Analyst with an MSc in Data Science and experience delivering data-d
 ### <img src="images/logos/surrey.png" height="30"/> University of Surrey
 
 **Data Insights Coordinator**
-📅 August 2025 – September 2025
+
+August 2025 – September 2025
 
 * Led data cleaning, transformation, and exploratory data analysis activities.
 * Developed Power BI dashboards, KPI reports, and automated reporting solutions.
