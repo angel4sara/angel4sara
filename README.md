@@ -73,28 +73,51 @@ I am a Data Analyst with an MSc in Data Science and experience delivering data-d
 
 ## 💼 Professional Experience
 
-### University College London (UCL)
+### <img src="images/logos/ucl.png" height="30"/> University College London (UCL)
 
 **EDI Data Tool Developer**
 
-* Developed a bespoke EDI analytics and visualisation platform
-* Built dashboards using Python, Altair, Plotly, Bokeh and Power BI
-* Collaborated with senior leadership to support data-driven decision making
+📅 February 2025 – December 2025
 
-### City St George's, University of London
+* Designed and developed a bespoke Equality, Diversity & Inclusion (EDI) analytics platform for the Faculty of Engineering.
+* Built interactive dashboards and visualisations using Python, Altair, Plotly, Bokeh, and Power BI.
+* Collaborated with the Vice-Dean (EDI) and key stakeholders to translate requirements into actionable insights.
+* Developed scalable and maintainable analytics solutions supporting university-wide reporting and decision-making.
+* Facilitated user feedback sessions and produced comprehensive user documentation.
+
+---
+
+### <img src="images/logos/city-st-georges.png" height="30"/> City St George's, University of London
 
 **Data Quality Support Administrator**
+📅 January 2026 – March 2026
 
-* Performed large-scale data validation and audit checks
-* Developed reporting pipelines and dashboards
-* Worked with Azure-based solutions and GDPR-compliant processes
+* Processed and validated 5,000+ curriculum amendments within the Curriculum Management System (CMS).
+* Performed data quality audits, validation checks, and GDPR-compliant data governance activities.
+* Supported reporting and analytics initiatives through Power BI and Excel-based solutions.
+* Assisted with Azure-based data processing and integration activities.
+* Maintained documentation and supported continuous improvement of academic data processes.
 
-### University of Surrey
+**Data Migration Assistant**
+📅 September 2025 – December 2025
+
+* Entered, verified, and maintained 9,000+ programme, course, and module records.
+* Conducted audit checks to ensure consistency, accuracy, and compliance across datasets.
+* Collaborated with academic and quality assurance teams during migration activities.
+* Produced reports and supported process optimisation initiatives.
+
+---
+
+### <img src="images/logos/surrey.png" height="30"/> University of Surrey
 
 **Data Insights Coordinator**
+📅 August 2025 – September 2025
 
-* Delivered forecasting models and KPI dashboards
-* Led data cleaning, transformation and reporting activities
+* Led data cleaning, transformation, and exploratory data analysis activities.
+* Developed Power BI dashboards, KPI reports, and automated reporting solutions.
+* Built DAX-based forecasting and "What-If" scenario modelling tools.
+* Delivered actionable insights supporting strategic planning and revenue forecasting.
+* Worked within tight project deadlines while maintaining high data quality standards.
 
 ---
 
