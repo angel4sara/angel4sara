@@ -227,7 +227,7 @@ https://github.com/angel4sara/-Utilising-Multi-view-Data-for-Identification-of-A
 
 ## 🎓 Education
 
-### MSc Data Science (Distinction)
+### MSc Data Science
 
 University of Greenwich
 
