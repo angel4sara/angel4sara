@@ -1,30 +1,35 @@
 <div align="center">
 
-# Hi , I'm Angel Abraham
+# Hi, I'm Angel Abraham
 
 ### Data Analyst | Business Intelligence Developer | MSc Data Science
 
-### Power BI • SQL • Python • Alteryx • Azure
+### Power BI • SQL • Python • Alteryx • Azure • Tableau
 
 📍 Kerala, India | Open to Relocation
 
-I transform raw data into actionable business insights through analytics, visualisation, machine learning, and business intelligence.
+Transforming data into actionable business insights through analytics, visualisation, business intelligence, machine learning, and data-driven storytelling.
+
+<br>
+
+<a href="mailto:angel4abraham@gmail.com">
+    <img src="https://img.shields.io/badge/Email-angel4abraham%40gmail.com-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/angel-sara-abraham/">
+    <img src="https://img.shields.io/badge/LinkedIn-Angel%20Abraham-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/angel4sara">
+    <img src="https://img.shields.io/badge/GitHub-angel4sara-black?style=for-the-badge&logo=github" />
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=angel4sara&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
-<div align="center">
-  
-## 🌐 Connect With Me
-
-📧 Email: [angel4abraham@gmail.com](mailto:angel4abraham@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/angel-sara-abraham/
-
-🐙 GitHub: https://github.com/angel4sara
-
-</div>
-
-<div align="center">
 
 ##  About Me
 
@@ -275,15 +280,7 @@ University of Greenwich
 
 ## 📈 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=angel4sara&show_icons=true&theme=github_dark" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel4sara&layout=compact&theme=github_dark" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=angel4sara&theme=github-dark-blue" />
+<img src="https://streak-stats.demolab.com?user=angel4sara&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 ---
