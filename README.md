@@ -315,6 +315,6 @@ https://github.com/angel4sara/-Utilising-Multi-view-Data-for-Identification-of-A
 
 </div>
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaboration, analytics projects, and data-driven innovation.
+:) Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaboration, analytics projects, and data-driven innovation.
 
 ---
