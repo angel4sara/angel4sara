@@ -6,7 +6,7 @@
 
 ### Power BI • SQL • Python • Alteryx • Azure • Tableau
 
-📍 Kerala, India | Open to Relocation
+📍 Kerala, India 
 
 Transforming data into actionable business insights through analytics, visualisation, business intelligence, machine learning, and data-driven storytelling.
 
