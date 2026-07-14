@@ -78,7 +78,7 @@ SQL • Python • Power BI • Snowflake • Tableau • Alteryx • Azure • 
 
 ## 💼 Professional Experience
 
-### <img src="images/logos/gapblue.png" height="30"/> GapBlue Software Labs Pvt. Ltd.
+### <img src="images/logos/gapblue logo.png" height="30"/> GapBlue Software Labs Pvt. Ltd.
 
 **Associate Consultant**
 
