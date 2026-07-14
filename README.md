@@ -2,9 +2,9 @@
 
 # Hi, I'm Angel Sara Abraham
 
-### Data Analyst | Business Intelligence Developer | MSc Data Science
+### Associate Consultant | Data Analyst | Business Intelligence Developer | MSc Data Science
 
-### Power BI • SQL • Python • Alteryx • Azure • Tableau
+### Power BI • SQL • Python • Snowflake • Alteryx • Azure • Tableau
 
 📍 Kerala, India 
 
