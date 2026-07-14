@@ -36,7 +36,7 @@ I am a Data Analyst with an MSc in Data Science and experience delivering data-d
 ---
 ##  Featured Technologies
 
-SQL • Python • Power BI • Tableau • Alteryx • Azure • DAX • ETL • Machine Learning • Data Visualisation
+SQL • Python • Power BI • Snowflake • Tableau • Alteryx • Azure • DAX • ETL • Machine Learning • Data Visualisation
 
 ## 🛠️ Technical Skills
 
@@ -60,6 +60,7 @@ SQL • Python • Power BI • Tableau • Alteryx • Azure • DAX • ETL �
 ### Cloud & Data Engineering
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure\&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### Visualisation
 
@@ -76,6 +77,18 @@ SQL • Python • Power BI • Tableau • Alteryx • Azure • DAX • ETL �
 ---
 
 ## 💼 Professional Experience
+
+### <img src="images/logos/gapblue.png" height="30"/> GapBlue Software Labs Pvt. Ltd.
+
+**Associate Consultant**
+
+📅 June 2026 – Present
+
+* Designed and developed a Power BI variance reconciliation solution for a global medical device client, comparing WWSA and DSR data from Oracle Fusion.
+* Improved reconciliation report accuracy by diagnosing and resolving date-format issues, data-type mismatches, incorrect filter context, and slicer and drill-through defects.
+* Developed Snowflake-based reconciliation logic to compare sales and DSR datasets.
+* Built Snowflake stored procedures to automate mismatch detection, order-level quantity validation, and financial variance analysis.
+* Performed source-to-target validation and investigated discrepancies across Power BI, Oracle Fusion, and Snowflake datasets.
 
 ### <img src="images/logos/ucl.png" height="30"/> University College London (UCL)
 
