@@ -273,8 +273,8 @@ https://github.com/angel4sara/-Utilising-Multi-view-Data-for-Identification-of-A
 
 ## 📜 Certifications
 
+*  Microsoft Certified: Power BI Data Analyst Associate
 * Alteryx Designer Core Certified
-* Power BI Data Analytics
 
 ---
 
